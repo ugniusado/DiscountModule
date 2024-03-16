@@ -48,7 +48,7 @@ Running the Program
     
 2.  **Configure the Input File:**
     
-    *   Place `input.txt` inside the `InputFiles` folder at the Domain project root.
+    *   Place `input.txt` inside the `InputFiles` folder at the Application project root.
     *   Ensure the file is set to be copied to the output directory.
 3.  **Execute the Program:**
     
